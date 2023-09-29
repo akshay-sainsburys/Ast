@@ -1,0 +1,7 @@
+conda create --name snowpark-de-ml -c https://repo.anaconda.com/pkgs/snowflake python=3.9
+
+conda activate snowpark-de-ml
+conda install -c https://repo.anaconda.com/pkgs/snowflake snowflake-snowpark-python snowflake-ml-python pandas notebook scikit-learn cachetools
+
+
+https://go.snowflake.net/MjUyLVJGTy0yMjcAAAGMTqpVmqmUfZUDZqrNSZzcjd4YAd48L329zyo0tCzTjf7yHvbwecQXkFeMlCIHIDmF2wOdwxM=
